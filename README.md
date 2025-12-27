@@ -32,7 +32,7 @@ The workflow keeps the topology intact and improves polygon quality for later sp
 
 2. **Update the file path** in the notebook:
 
-   * Replace `"C:\\Users\\DELL\\AssessmentTask\\extracted\\test.shp"` with your shapefile path.
+   * Replace `"C:\\Users\\DELL\\AssessmentTask\\test.shp"` with your shapefile path.
 
 3. **Run the notebook** step by step:
 
